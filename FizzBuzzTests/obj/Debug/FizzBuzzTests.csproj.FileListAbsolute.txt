@@ -7,3 +7,12 @@ C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\Fi
 C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
 C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\NewConsoleApplication.dll
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\NewConsoleApplication.pdb
+C:\BitBucket\FizzBuzzApi\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NewConsoleApplication\FizzBuzzApi.csproj">
+    <ProjectReference Include="..\FizzBuzzApi\FizzBuzzApi.csproj">
       <Project>{048bc681-4f9f-447c-9399-af2038615dd4}</Project>
       <Name>FizzBuzzApi</Name>
     </ProjectReference>
