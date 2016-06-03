@@ -1,0 +1,9 @@
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\NewConsoleApplication.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\NewConsoleApplication.pdb
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb

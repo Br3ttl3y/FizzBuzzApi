@@ -1,0 +1,6 @@
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.exe.config
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.exe
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.pdb
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\NewConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\NewConsoleApplication.exe
+c:\users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\NewConsoleApplication.pdb

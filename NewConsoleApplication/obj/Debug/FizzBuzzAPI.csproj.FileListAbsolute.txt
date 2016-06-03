@@ -1,0 +1,6 @@
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\NewConsoleApplication.pdb
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.dll.config
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\bin\Debug\NewConsoleApplication.pdb
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\NewConsoleApplication.dll
+C:\Users\bcarroll\Documents\Visual Studio 2013\Projects\NewConsoleApplication\NewConsoleApplication\obj\Debug\FizzBuzzAPI.csprojResolveAssemblyReference.cache
